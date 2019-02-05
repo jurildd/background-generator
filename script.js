@@ -1,3 +1,6 @@
+var _ = require('lodash');
+console.log(_);
+
 var css = document.querySelector("h3");
 
 var color1 = document.getElementById("color1");
